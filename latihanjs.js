@@ -1,24 +1,27 @@
-var age = 50;
-var name = 'whitnu Nastain';
-let date = 20;
-const color = 'red';
+var date = 10;
+var color = 'red';
+var name = 'whitnu nastain';
+var lokasi = 'simpang siur';
 
-if (age <= 20 && age >= 10) {
-  console.log(`Hallo ${name}`);
+if (date <= 5 && 'simpang siur') {
+  var color = 'green';
+  console.log('lokasi sekarang');
+}
+if (date >= 5 && 'simpang siur') {
+  var color = 'red';
+  console.log('lokasi kemarin');
 } else {
-  console.log(`bukan ${name}`);
+  console.log('salah lokasi');
 }
 
 switch (color) {
-  case 'red':
-    console.log('bukan budjang');
-    break;
-
   case 'green':
-    console.log(`Hallo ${name}`);
+    console.log(`${name} kemarin lewat sini`);
     break;
-
+  case 'red':
+    console.log(`${name} kemarin tidak lewat sini`);
+    break;
   default:
-    console.log('bukan siapa siapa');
+    console.log(`${name} tidak Pernah lewat sini`);
     break;
 }
