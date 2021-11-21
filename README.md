@@ -1,5 +1,5 @@
-# 141responsisoprak
-bagas afrian
-utyhebat
-ayo segera offline
-cepetan
+#belajar_git
+Belajar git
+--
+
+improve skill on my own
