@@ -1,7 +1,7 @@
 var age = 50;
 var name = 'whitnu Nastain';
 let date = 20;
-const color = 'cek';
+const color = 'red';
 
 if (age <= 20 && age >= 10) {
   console.log(`Hallo ${name}`);
