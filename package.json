@@ -1,0 +1,19 @@
+{
+  "name": "belejar_git",
+  "version": "1.0.0",
+  "description": "Belajar git\r --",
+  "main": "latihanjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Whitnu12/bel_git_p2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Whitnu12/bel_git_p2/issues"
+  },
+  "homepage": "https://github.com/Whitnu12/bel_git_p2#readme"
+}
