@@ -2,6 +2,7 @@ var a = 200;
 var b = 10;
 var c = 400;
 var warna = '';
+let baru = 0;
 
 if (a < b) {
   hasil = a - 5;
@@ -15,6 +16,11 @@ if (a < b) {
   hasil = c - a + b;
   warna = 'hijau';
   console.log(hasil, warna);
+}
+
+while (baru <= 20) {
+  console.log(baru);
+  baru += 1;
 }
 
 switch (warna) {
