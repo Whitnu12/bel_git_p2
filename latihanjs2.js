@@ -1,4 +1,5 @@
 var a = 200;
+var nama = 'whitnu nastain';
 var b = 10;
 var c = 400;
 var warna = '';
@@ -23,14 +24,6 @@ while (baru <= 20) {
   baru += 1;
 }
 
-switch (warna) {
-  case 'merah': {
-    console.log('whitnu nastain');
-  }
-  case 'kuning': {
-    console.log('nastain');
-  }
-  case 'hijau': {
-    console.log('whitnu');
-  }
+for (let nilai_baru = 1; nilai_baru < 20; nilai_baru++) {
+  console.log(`${nama} ganteng`);
 }
