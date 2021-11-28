@@ -19,11 +19,11 @@ if (a < b) {
   console.log(hasil, warna);
 }
 
-while (baru <= 20) {
+while (baru <= 2) {
   console.log(baru);
   baru += 1;
 }
 
-for (let nilai_baru = 1; nilai_baru < 20; nilai_baru++) {
+for (let nilai_baru = 1; nilai_baru < 5; nilai_baru++) {
   console.log(`${nama} ganteng`);
 }
